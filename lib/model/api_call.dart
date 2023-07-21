@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 
-const token = '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';
+const token = 'Your Key here ;
 
 class OpenAIService {
   String content = '';
